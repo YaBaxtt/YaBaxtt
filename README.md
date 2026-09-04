@@ -19,10 +19,13 @@
 
 </div>
 
-About me
+---
+
+## About me
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer at work" />
 
+~~~python
 class Baxt:
     role = "Python Backend Developer"
     main_stack = ["Python", "Django", "PostgreSQL"]
@@ -35,38 +38,32 @@ class Baxt:
 
 me = Baxt()
 print(me.mission())
+~~~
 
-I build backend applications, APIs and Telegram bots with Python. My main focus is Django, databases, authentication, user roles, admin panels and practical product features.
+I build backend applications, APIs and Telegram bots with **Python**. My main focus is **Django**, databases, authentication, user roles, admin panels and practical product features.
 
-⚡ Turning ideas into working applications
-
-🤖 Building Telegram bots with real workflows
-
-🧠 Improving backend architecture and API design
-
-🚀 Creating projects that people can actually use
+- ⚡ Turning ideas into working applications
+- 🤖 Building Telegram bots with real workflows
+- 🧠 Improving backend architecture and API design
+- 🚀 Creating projects that people can actually use
 
 <br clear="both">
 
-What I build
+---
+
+## What I build
 
 <div align="center">
 
-🌐 Web Applications
-
-⚡ Backend & APIs
-
-🤖 Telegram Bots
-
-Django applications with authentication, roles, dashboards and admin panels
-
-REST APIs, business logic, databases and integrations
-
-Aiogram bots with FSM, multilingual flows and automation
+| 🌐 Web Applications | ⚡ Backend & APIs | 🤖 Telegram Bots |
+|:---:|:---:|:---:|
+| Django applications with authentication, roles, dashboards and admin panels | REST APIs, business logic, databases and integrations | Aiogram bots with FSM, multilingual flows and automation |
 
 </div>
 
-Tech universe
+---
+
+## Tech universe
 
 <div align="center">
 
@@ -74,47 +71,38 @@ Tech universe
 
 <br><br>
 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Familiar-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-5316B8?style=for-the-badge)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
-Featured projects
+---
+
+## Featured projects
 
 <div align="center">
 
-Project
-
-What it does
-
-Stack
-
-Image Grid Tool
-
-Splits images into clean grids for social-media stories.
-
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-
-Aim Game
-
-Browser aiming game focused on reaction speed and accuracy.
-
-<code>JavaScript</code>
+| Project | What it does | Stack |
+|---|---|---|
+| [**Image Grid Tool**](https://github.com/YaBaxtt/YaBaxtt.github.io) | Splits images into clean grids for social-media stories. | <code>HTML</code> <code>CSS</code> <code>JavaScript</code> |
+| [**Aim Game**](https://github.com/YaBaxtt/aim) | Browser aiming game focused on reaction speed and accuracy. | <code>JavaScript</code> |
 
 </div>
 
-More backend and Telegram projects are being prepared for publication.
+> More backend and Telegram projects are being prepared for publication.
 
-GitHub command center
+---
+
+## GitHub command center
 
 <div align="center">
 
@@ -135,7 +123,9 @@ GitHub command center
 
 </div>
 
-Achievements
+---
+
+## Achievements
 
 <div align="center">
 
@@ -143,7 +133,9 @@ Achievements
 
 </div>
 
-Contribution snake
+---
+
+## Contribution snake
 
 <div align="center">
 
@@ -155,7 +147,9 @@ Contribution snake
 
 </div>
 
-Connect
+---
+
+## Connect
 
 <div align="center">
 
@@ -174,7 +168,7 @@ Connect
 
 <div align="center">
 
-Build. Learn. Improve. Repeat.
+### Build. Learn. Improve. Repeat.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:E53935,35:5316B8,70:0B3D91,100:05070D&animation=twinkling" alt="Footer" />
 
